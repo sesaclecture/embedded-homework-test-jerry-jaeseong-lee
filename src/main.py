@@ -4,4 +4,4 @@
 
 def add(a: int, b: int) -> int:
     """ test """
-    return a + b
+    return a - b
